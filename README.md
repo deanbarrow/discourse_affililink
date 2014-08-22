@@ -11,13 +11,13 @@ Usage
 
 Options
 -------
-**eBay:** Simply enter your Campaign Id and Country Code  
-**Amazon:** Enter your affiliate tag alongside the Amazon program you're following  
+**eBay:** Simply enter your Campaign Id and Country Code
+**Amazon:** Enter your affiliate tag alongside the Amazon program you're following
 **Other:** Copying the format of the Amazon links, enter the sites domain then affiliate variable
 
-**replace_links:** Replace existing affiliate codes  
-**track_views:** Track views on Google Analytics  
-**track_clicks:** Track clicks on Google Analytics  
+**replace_links:** Replace existing affiliate codes
+**track_views:** Track views on Google Analytics
+**track_clicks:** Track clicks on Google Analytics
 
 Todo
 ----
